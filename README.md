@@ -2,8 +2,6 @@
 A visualization of the world's population distribution over different countries. The population statistics can be viewed by hovering your
 mouse cursor over each country. Data obtained from the Open Knowledge Foundation (https://datahub.io/core/population).
 ![screenshot](https://github.com/dduong96/WorldPopulationMap/blob/master/wp_screenshot.png)
-# Read me
-Population figures for countries, regions (e.g. Asia) and the world. Data comes originally from World Bank and has been converted into standard CSV.
 
 # Data 
 The data is sourced from this [World Bank dataset](http://data.worldbank.org/indicator/SP.POP.TOTL) which in turn lists as
